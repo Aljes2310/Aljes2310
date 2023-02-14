@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Alfredo Alvarado</h1>
 <h3 align="center">A Junior Back End Developer from Peru</h3>
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **React, Tailwindcss ,Next.js**
 
 - 📫 How to reach me **aljes2310@gmail.com**
 
