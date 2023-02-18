@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I like working in a team**
 
+- Check out my portfolio https://alfredo-alvarado-portafolio.vercel.app/
+
 <p align="left">
 </p>
 
