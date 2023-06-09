@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Alfredo Alvarado</h1>
 <h3 align="center">A Junior Back End Developer from Peru</h3>
 
-- 🌱 I’m currently learning **React, Tailwindcss ,Next.js**
+- 🌱 I’m currently learning **React and Svelte,**
 
 - 📫 How to reach me **aljes2310@gmail.com**
 
 - ⚡ Fun fact **I like working in a team**
 
-- Check out my portfolio https://alfredo-alvarado-portafolio.vercel.app/
+- Check out my portfolio https://alfredo-alvarado-portafolio.me/
 
 <p align="left">
 </p>
