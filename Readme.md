@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Alfredo Alvarado</h1>
 
-- 🌱 I’m currently learning **React and Svelte,**
-
 - 📫 How to reach me **aljes2310@gmail.com**
-
-- Check out my portfolio https://alfredo-alvarado-portafolio.me/
 
 <p align="left">
 </p>
